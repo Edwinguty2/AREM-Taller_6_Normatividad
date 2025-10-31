@@ -1,12 +1,12 @@
 # 🗒️ Registro de Trabajo en Clase - Taller Normatividad
 
 ## 📆 Fecha de la sesión
-_31 de octubre de 2025_
+31 de octubre de 2025
 
 ## 👥 Integrantes presentes
-- Ana Rodríguez  
-- Carlos Zuluaga  
-- Edwin Guerrero  
+- Samuel Espitia  
+- Nicolas Ortiz
+- Edwin Gutierrez 
 
 ## 🧠 Actividades realizadas en clase
 
