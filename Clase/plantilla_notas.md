@@ -30,9 +30,9 @@ Al finalizar la clase, se completó la evaluación por sección, se justificó c
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Revisión final del checklist y ajustes | Ana Rodríguez | 01/11 |
-| Redacción del informe de hallazgos | Carlos Zuluaga | 02/11 |
-| Elaboración del modelo visual en draw.io | Edwin Guerrero | 03/11 |
+| Revisión final del checklist y ajustes | Samuel Espitia | 25/10 |
+| Redacción del informe de hallazgos | Nicolas Ortiz| 26/10 |
+| Elaboración del modelo visual en draw.io | Edwin Gutierrez | 27/10 |
 
 ---
 
